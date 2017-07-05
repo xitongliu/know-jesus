@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 译者序
 permalink: /about/
 ---
 ~~~
